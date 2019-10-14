@@ -1,2 +1,2 @@
 # RF_Test
-Televizyona gönderilen IR kodlarının televizyona etkisini TV den okuduğumuz Log'lar ile gözlemleyebilirsiniz. 
+Televizyona gönderilen IR kodlarının etkisini TV den dökülen Log'lar ile gözlemleyebilirsiniz. 
